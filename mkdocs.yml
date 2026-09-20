@@ -1,0 +1,6 @@
+site_name: Video to Video AI Guide
+site_description: Practical documentation for AI video restyling workflows
+theme:
+  name: readthedocs
+nav:
+  - Home: index.md
